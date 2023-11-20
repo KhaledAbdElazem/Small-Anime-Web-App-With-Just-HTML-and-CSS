@@ -1,0 +1,47 @@
+
+
+.div1 {
+    background-color: #2c2d34;
+    height: 180px;
+    width: 220px;
+    border: 3px;
+    border-color: black;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding-top: 20px;
+    padding-left: 15px;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.p1{
+    color: rgb(255, 255, 255);
+}
+.p2{
+    color: aquamarine;
+}
+.p3{
+    color:rgb(0, 255, 55);
+}
+.p4{
+    color:rgb(255, 0, 0);
+}
+.p5{
+    color:rgb(111, 0, 255);
+}
+.sp{
+    color: rgb(225, 85, 238);
+}
+.sd{
+    color: rgb(255, 238, 0);
+}
+.codecolor{
+    margin-bottom: -10px;
+    margin-left: -10px;
+    margin-top: -20px;
+}
+.logo{
+    height: 35px;
+    margin-bottom: -10px;
+    margin-top: -20px;
+    margin-left: 75px;
+}
